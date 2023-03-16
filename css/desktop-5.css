@@ -1,0 +1,203 @@
+/* screen - desktop-5 */
+
+.desktop-5 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 1024px;
+  width: 1440px;
+}
+
+.desktop-5 .overlap-group2 {
+  margin-top: -1px;
+  position: relative;
+}
+
+.desktop-5 .overlap-group1 {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.desktop-5 .line-3 {
+  height: 916px;
+  left: 819px;
+  top: 109px;
+  width: 1px;
+}
+
+.desktop-5 .rectangle-33 {
+  height: 106px;
+  left: 0;
+  top: 2px;
+  width: 1440px;
+}
+
+.desktop-5 .rectangle-34 {
+  height: 1024px;
+  left: 1px;
+  top: 0;
+  width: 255px;
+}
+
+.desktop-5 .title {
+  cursor: pointer;
+  height: 53px;
+  left: 682px;
+  letter-spacing: 0.10px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 25px;
+  width: 289px;
+}
+
+.desktop-5 .lista-de-alarmas {
+  cursor: pointer;
+  left: 61px;
+  top: 125px;
+  width: 132px;
+}
+
+.desktop-5 .crear-alarma {
+  cursor: pointer;
+  height: 71px;
+  left: 61px;
+  letter-spacing: 0.10px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 227px;
+  width: 132px;
+}
+
+.desktop-5 .lista-de-medicamentos {
+  left: 38px;
+  top: 330px;
+  width: 177px;
+}
+
+.desktop-5 .button {
+  align-items: center;
+  background-color: var(--purple-heart);
+  border-radius: 100px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 80px;
+  justify-content: center;
+  left: 449px;
+  overflow: hidden;
+  position: absolute;
+  top: 452px;
+  width: 194px;
+}
+
+.desktop-5 .state-layer {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 10px 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.desktop-5 .label-text {
+  letter-spacing: 0.10px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-5 .image-1 {
+  height: 916px;
+  left: 819px;
+  top: 109px;
+  width: 621px;
+}
+
+.desktop-5 .listbox-component {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 287px;
+  min-height: 376px;
+  position: absolute;
+  top: 248px;
+  width: 528px;
+}
+
+.desktop-5 .list-box-title {
+  height: 26px;
+}
+
+.desktop-5 .list-container {
+  height: 340px;
+  position: relative;
+  width: 528px;
+}
+
+.desktop-5 .list-box-main {
+  background-color: var(--white);
+  border-radius: 8px;
+  box-shadow: 0px 4px 14px #0000001a;
+  gap: 82px;
+  height: 78px;
+  left: 24px;
+  padding: 26.0px 27.4px;
+  position: absolute;
+  top: 0;
+}
+
+.desktop-5 .placeholder-text {
+  align-items: flex-start;
+  display: flex;
+  height: 26px;
+  min-width: 315px;
+}
+
+.desktop-5 .chevron {
+  align-self: center;
+  height: 8px;
+  margin-top: 1.3px;
+  width: 19px;
+}
+
+.desktop-5 .clip-list {
+  height: 340px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 528px;
+}
+
+.desktop-5 .list-box {
+  align-items: flex-start;
+  display: flex;
+  min-width: 480px;
+}
+
+.desktop-5 .lista-de {
+  height: 71px;
+  letter-spacing: 0.10px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+}
+
+.desktop-5 .overlap {
+  height: 1025px;
+  width: 1440px;
+}
+
+.desktop-5 .rectangle {
+  background-color: var(--purple-heart);
+  position: absolute;
+}
